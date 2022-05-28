@@ -13,6 +13,7 @@ npm start
 
 # Start Vue DevServer: http://localhost:8080
 cd client
+npm install
 npm run serve
 
 # Build for production (Will build into server/public, ready for deployment)
