@@ -11,4 +11,4 @@ In my git repository, there should be the following:
 
 ### Project live demo: https://www.youtube.com/watch?v=dcTFaHy9gUU
 
-### To run this Project, please download or clone the GitHub repository, and follow readme file for both server and client
+### To run this Project, please download or clone the GitHub repository, and follow ReadME file for both server and client
